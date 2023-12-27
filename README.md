@@ -1,3 +1,3 @@
-#Advent Of Code
+# Advent Of Code
 
 Solving the advent of code in Rust
